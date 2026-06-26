@@ -1,3 +1,4 @@
+# Import all the required modules
 import requests
 import argparse
 import pyfiglet
