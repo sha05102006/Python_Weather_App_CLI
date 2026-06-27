@@ -6,3 +6,17 @@
 ## Introduction:
 
 The scope of this project is to provide users with real-time weather information through a simple *Command Line Interface (CLI)* application. This project is developed using *Python* and integrates with the *OpenWeatherMap API* to retrieve current weather information for any specified city or country. The application accepts the location as a command-line argument, sends a request to the weather API, processes the received JSON data, and displays the weather details in a clean and user-friendly format with colored output and weather icons.
+
+The Python script attached in this repository can perform functions such as:
+
+* Accepting a city or country name through the command line.
+* Fetching real-time weather information using the OpenWeatherMap API.
+* Displaying the current temperature in Celsius.
+* Displaying the "Feels Like" temperature.
+* Displaying the current weather condition.
+* Displaying weather icons based on the weather condition.
+* Printing the city name in large ASCII art using PyFiglet.
+* Displaying colored terminal output for improved readability.
+* Handling invalid API requests by displaying an appropriate error message.
+
+This project provides users with a quick and convenient way to check weather conditions directly from the terminal without the need for a graphical interface.
