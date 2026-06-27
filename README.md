@@ -20,3 +20,25 @@ The Python script attached in this repository can perform functions such as:
 * Handling invalid API requests by displaying an appropriate error message.
 
 This project provides users with a quick and convenient way to check weather conditions directly from the terminal without the need for a graphical interface.
+
+## Features:
+
+### Weather Information
+
+* Search weather using a city or country name.
+* Display current weather description.
+* Display current temperature in Celsius.
+* Display "Feels Like" temperature.
+* Display weather icons corresponding to current weather conditions.
+
+### Command Line Interface
+
+* Accept user input using command-line arguments.
+* Generate clean and readable terminal output.
+* Display the city name as ASCII art.
+
+### API Integration
+
+* Retrieve live weather information using the OpenWeatherMap API.
+* Parse JSON responses received from the API.
+* Display an error message if weather information cannot be retrieved.
