@@ -68,3 +68,21 @@ https://pypi.org/project/pyfiglet/
 Used for adding colored output to the terminal.
 
 https://pypi.org/project/simple-chalk/
+
+## Output (Video):
+
+WeatherApp_CLI_Demo.mp4
+
+## Output (Images):
+
+### Running the Application:
+
+Screenshot_Command_Line.png
+
+### Weather Information Display:
+
+Screenshot_Weather_Output.png
+
+### Invalid City Error:
+
+Screenshot_Error_Message.png
