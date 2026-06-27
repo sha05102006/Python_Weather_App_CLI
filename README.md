@@ -86,3 +86,12 @@ Screenshot_Weather_Output.png
 ### Invalid City Error:
 
 Screenshot_Error_Message.png
+
+## Issues:
+
+* Requires an active internet connection to retrieve weather information.
+* API key is hardcoded into the source code.
+* Only displays current weather information.
+* Does not provide hourly or weekly weather forecasts.
+* Limited error handling for network failures and invalid user input.
+* Only supports one location lookup at a time.
