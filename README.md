@@ -42,3 +42,29 @@ This project provides users with a quick and convenient way to check weather con
 * Retrieve live weather information using the OpenWeatherMap API.
 * Parse JSON responses received from the API.
 * Display an error message if weather information cannot be retrieved.
+
+## Modules Used:
+
+### Requests
+
+Used for sending HTTP requests to the OpenWeatherMap API.
+
+https://requests.readthedocs.io/
+
+### Argparse
+
+Used for handling command-line arguments.
+
+https://docs.python.org/3/library/argparse.html
+
+### PyFiglet
+
+Used for displaying the city name in ASCII art format.
+
+https://pypi.org/project/pyfiglet/
+
+### Simple Chalk
+
+Used for adding colored output to the terminal.
+
+https://pypi.org/project/simple-chalk/
