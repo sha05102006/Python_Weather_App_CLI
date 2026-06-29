@@ -4,8 +4,8 @@ import argparse
 import pyfiglet
 from simple_chalk import chalk
 
-# API key from openweathmap
-Api_Key = "Write your API key"
+# API key from openweathermap
+Api_Key = "Write your API key from openweathermap website"
 
 # Base URL for openweathermap API
 Base_Url = "https://api.openweathermap.org/data/2.5/weather"
