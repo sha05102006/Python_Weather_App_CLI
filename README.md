@@ -71,21 +71,25 @@ https://pypi.org/project/simple-chalk/
 
 ## Output (Video):
 
-WeatherApp_CLI_Demo.mp4
+
+
+https://github.com/user-attachments/assets/571db32c-2791-41ce-970e-fe566034a790
+
+
 
 ## Output (Images):
 
 ### Running the Application:
 
-Screenshot_Command_Line.png
+<img width="1483" height="757" alt="Screenshot 2026-06-29 124723" src="https://github.com/user-attachments/assets/6ecc3ff5-d094-4a0a-b242-b3ae27c6e719" />
 
 ### Weather Information Display:
 
-Screenshot_Weather_Output.png
+<img width="1480" height="759" alt="Screenshot 2026-06-29 124739" src="https://github.com/user-attachments/assets/e187ff8d-5e8e-40c0-8215-c61dc89625f9" />
 
 ### Invalid City Error:
 
-Screenshot_Error_Message.png
+<img width="1483" height="758" alt="Screenshot 2026-06-29 124926" src="https://github.com/user-attachments/assets/08e07568-0078-4f02-a43e-a474309dfdcf" />
 
 ## Issues:
 
